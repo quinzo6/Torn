@@ -45,7 +45,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetButtonDown("LeftShift") && isGrounded)
         {
-            speed = 14f;
+            speed = 12f;
         }
 
         if (Input.GetButtonUp("LeftShift") && isGrounded)
