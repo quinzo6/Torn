@@ -161,7 +161,7 @@ MonoBehaviour:
     defaultState: 1
   dirtIntensity:
     overrideState: 1
-    value: 3
+    value: 4
 --- !u!114 &-285902492319004706
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -218,7 +218,7 @@ MonoBehaviour:
     value: -14.4
   tint:
     overrideState: 1
-    value: 25.8
+    value: 29.4
   colorFilter:
     overrideState: 1
     value: {r: 1, g: 0.7019608, b: 0.6666667, a: 1}
@@ -266,7 +266,7 @@ MonoBehaviour:
     value: 100
   lift:
     overrideState: 1
-    value: {x: 0.96651155, y: 1, z: 0.9811965, w: 0.027972028}
+    value: {x: 0.91120386, y: 1, z: 0.87608343, w: 0.027972028}
   gamma:
     overrideState: 0
     value: {x: 1, y: 1, z: 1, w: 0}

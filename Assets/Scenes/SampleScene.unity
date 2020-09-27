@@ -15,7 +15,7 @@ RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
   m_Fog: 1
-  m_FogColor: {r: 1, g: 1, b: 1, a: 1}
+  m_FogColor: {r: 0.6037736, g: 0.6037736, b: 0.6037736, a: 1}
   m_FogMode: 3
   m_FogDensity: 0.012
   m_LinearFogStart: 0
@@ -1117,7 +1117,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 816830314}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.505, z: 0}
   m_LocalScale: {x: 1.4, y: 1.8, z: 1.4}
   m_Children: []
   m_Father: {fileID: 1837254321}
@@ -2932,7 +2932,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4287058247232490536, guid: cde97d495f41d22429c0f6162824ccdf, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 616.143
+      value: 620.39
       objectReference: {fileID: 0}
     - target: {fileID: 4287058247232490536, guid: cde97d495f41d22429c0f6162824ccdf, type: 3}
       propertyPath: m_LocalRotation.x
@@ -2940,7 +2940,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4287058247232490536, guid: cde97d495f41d22429c0f6162824ccdf, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.24606508
+      value: -0.9457582
       objectReference: {fileID: 0}
     - target: {fileID: 4287058247232490536, guid: cde97d495f41d22429c0f6162824ccdf, type: 3}
       propertyPath: m_LocalRotation.z
@@ -2948,7 +2948,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4287058247232490536, guid: cde97d495f41d22429c0f6162824ccdf, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.96925336
+      value: -0.32487148
       objectReference: {fileID: 0}
     - target: {fileID: 4287058247232490536, guid: cde97d495f41d22429c0f6162824ccdf, type: 3}
       propertyPath: m_RootOrder
@@ -2960,7 +2960,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4287058247232490536, guid: cde97d495f41d22429c0f6162824ccdf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -28.49
+      value: -217.916
       objectReference: {fileID: 0}
     - target: {fileID: 4287058247232490536, guid: cde97d495f41d22429c0f6162824ccdf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
